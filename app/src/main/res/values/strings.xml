@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="static_fragment">Static Fragment</string>
+    <string name="dynamic_fragment">Dynamic Fragment</string>
+    <string name="favorites">Favorites</string>
+    <string name="contacts">Contacts</string>
+    <string name="information">Information</string>
+    <string name="home">Home</string>
+    <string name="gallery">Gallery</string>
+    <string name="slideshow">Slideshow</string>
+    <string name="about">About</string>
+    <string name="sign_out">Sign out</string>
+    <string name="navigation_drawer_open">Open Drawer</string>
+    <string name="navigation_drawer_close">Close Drawer</string>
+    <string name="welcome_fragment">Welcome Fragment</string>
+    <string name="navigate_from_activity">Navigate from Activity</string>
+</resources>

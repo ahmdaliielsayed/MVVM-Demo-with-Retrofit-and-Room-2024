@@ -1,0 +1,27 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyApplication" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+<!--        <item name="colorPrimary">@color/my_light_primary</item>-->
+<!--        <item name="android:textSize">96sp</item>-->
+    </style>
+
+    <style name="Theme.MyApplication" parent="Base.Theme.MyApplication" />
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="OptionsMenuText" parent="android:TextAppearance.Widget.PopupMenu.Small">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="TextViewStyle">
+        <item name="android:textSize">48sp</item>
+        <item name="android:textColor">@color/color1</item>
+    </style>
+
+    <style name="TextAppearance.MyApp.Headline1" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+</resources>
